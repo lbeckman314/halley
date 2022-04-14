@@ -31,6 +31,10 @@ a {
   color: #678CFA;
 }
 
+.num {
+  color: #DB37C4;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

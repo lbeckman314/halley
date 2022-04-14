@@ -19,7 +19,7 @@ function App() {
       <header className="App-header">
         <p class="decorated">Countdown to Halley's Comet!</p>
         <a href="https://wikipedia.org/wiki/Halley%27s_Comet"><img src={halleys} className="App-logo" alt="logo" /></a>
-        <p>{date.year} years {date.day} days {date.hour} hours {date.min} minutes and {date.sec} seconds.</p>
+        <p><span class="num">{date.year}</span> years <span class="num">{date.day}</span> days <span class="num">{date.hour}</span> hours <span class="num">{date.min}</span> minutes and <span class="num">{date.sec}</span> seconds.</p>
       </header>
     </div>
   );
