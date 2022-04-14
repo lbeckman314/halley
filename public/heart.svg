@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="12"
+   height="10"
+   id="svg2"
+   sodipodi:docname="heart.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>https://commons.wikimedia.org/wiki/File:Love_Heart_SVG.svg</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     id="namedview62"
+     showgrid="false"
+     inkscape:zoom="15.170569"
+     inkscape:cx="26.871152"
+     inkscape:cy="9.0272251"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-center="false"
+     inkscape:pagecheckerboard="false" />
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#ff357a;fill-opacity:1;stroke-width:0.01634437"
+     d="M 8.6933594,0.6015625 C 7.6864471,0.5920328 6.6927928,1.0640664 6.21875,2.0214844 L 6.0507812,2.359375 5.9824219,2.1132812 C 5.8722684,1.7149224 5.339981,1.1549731 4.8222656,0.8925781 4.3969223,0.6769951 4.244567,0.5998156 3.5214844,0.6035156 2.8302479,0.6070396 2.6248681,0.6927467 2.2109375,0.8867188 1.6265084,1.1605918 1.1696977,1.6083235 0.859375,2.2109375 0.6764635,2.5661315 0.63159917,2.7978066 0.63085938,3.4003906 0.62930727,4.634787 1.083726,5.5450299 2.1503906,6.4511719 2.7289795,6.9426919 2.9226332,7.0872511 4.3476562,8.0800781 4.8286082,8.4151601 5.4140361,8.8865723 5.6484375,9.1289062 6.0929971,9.588529 5.9969956,9.74246 6.0976562,9.5605469 6.1843704,9.4038399 7.4286694,8.2882172 8.5292969,7.5507812 10.207561,6.4263332 10.933777,5.6929548 11.320312,4.7304688 11.616632,3.9926224 11.580255,2.6818104 11.246094,2.0683594 10.719402,1.1014704 9.7002717,0.6110922 8.6933594,0.6015625 Z"
+     id="path2417"
+     inkscape:connector-curvature="0" />
+  <g
+     style="fill:#ff357a;fill-opacity:1"
+     id="g2221"
+     transform="matrix(0.0435329,0,0,0.03781798,92.023762,-512.06613)" />
+</svg>
